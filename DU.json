@@ -1,4 +1,113 @@
-{
-"secondaryBrandColor":"#ffb300",
-"primaryBrandColor":"#000000",
-}
+[
+  {
+    "item": "home",
+    "schoolname": "University of Denver",
+    "abbreviation": "DU",
+    "genericProgramName": "The Global Career Accelerator",
+    "secondaryBrandColor": null,
+    "primaryBrandColor": null,
+    "buttonColor": null,
+    "buttonTextColor": null,
+    "logo": null,
+    "cobranded_logo": null,
+    "partner_id": "001Rd00000WvlSoIAJ",
+    "programName": "DU Global Career Accelerator",
+    "termsandConditionsPolicy": "https://www.du.edu/university-financial-services/terms-and-conditions",
+    "credits": "4 DU credits",
+    "startDate": "June 13",
+    "endDate": "August 22"
+  },
+  {
+    "item": "about",
+    "schoolname": "University of Denver",
+    "genericProgramName": "The Global Career Accelerator",
+    "schoolFullAddress": null,
+    "abbreviation": "DU",
+    "phone": "(720) 807-8881",
+    "credits": "4 DU credits",
+    "programFee": null,
+    "seasonYear": "Summer 2026",
+    "term": "Summer",
+    "season": "Summer",
+    "registrationMessage": "2026 Summer registration is now open."
+  },
+  {
+    "item": "explore-tracks",
+    "credits": "4 DU credits",
+    "abbreviation": "DU",
+    "registrationMessage": "2026 Summer registration is now open."
+  },
+  {
+    "item": "digital-marketing",
+    "schoolname": "University of Denver",
+    "trackTitle": "Digital Marketing Track",
+    "seasonYear": "Summer 2026",
+    "startDate": "June 13",
+    "endDate": "August 22",
+    "credits": "4 DU credits",
+    "abbreviation": "DU",
+    "registrationMessage": "2026 Summer registration is now open.",
+    "courseCode1": "CENG 2980 | 4 Credits"
+  },
+  {
+    "item": "coding-for-web",
+    "schoolname": "University of Denver",
+    "trackTitle": "Coding for Web Track",
+    "seasonYear": "Summer 2026",
+    "startDate": "June 13",
+    "endDate": "August 22",
+    "credits": "4 DU credits",
+    "abbreviation": "DU",
+    "registrationMessage": "2026 Summer registration is now open.",
+    "courseCode1": "CENG 2980 | 4 Credits"
+  },
+  {
+    "item": "data-analytics",
+    "schoolname": "University of Denver",
+    "trackTitle": "Data Analytics Track",
+    "seasonYear": "Summer 2026",
+    "startDate": "June 13",
+    "endDate": "August 22",
+    "credits": "4 DU credits",
+    "abbreviation": "DU",
+    "registrationMessage": "2026 Summer registration is now open.",
+    "courseCode1": "CENG 2980 | 4 Credits"
+  },
+  {
+    "item": "coding-for-data",
+    "schoolname": "University of Denver",
+    "trackTitle": "Coding for Data Track",
+    "seasonYear": "Summer 2026",
+    "startDate": "June 13",
+    "endDate": "August 22",
+    "credits": "4 DU credits",
+    "abbreviation": "DU",
+    "registrationMessage": "2026 Summer registration is now open.",
+    "courseCode1": "CENG 2980 | 4 Credits"
+  },
+  {
+    "item": "career-rotation",
+    "schoolname": "University of Denver",
+    "trackTitle": "Career Rotation Track",
+    "seasonYear": "Summer 2026",
+    "startDate": "June 13",
+    "endDate": "August 22",
+    "credits": "4 DU credits",
+    "abbreviation": "DU",
+    "registrationMessage": "2026 Summer registration is now open.",
+    "courseCode1": "CENG 2980 | 4 Credits"
+  },
+  {
+    "item": "reserve-a-seat",
+    "programName": "DU Global Career Accelerator",
+    "registrationMessage": "Registration is now open.",
+    "phone": "(720) 807-8881",
+    "abbreviation": "DU"
+  },
+  {
+    "item": "begin",
+    "credits": "4 DU credits",
+    "abbreviation": "DU",
+    "phone": "(720) 807-8881"
+  }
+]
