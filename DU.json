@@ -13,6 +13,7 @@
     "partner_id": "001Rd00000WvlSoIAJ",
     "programName": "DU Global Career Accelerator",
     "termsandConditionsPolicy": "https://www.du.edu/university-financial-services/terms-and-conditions",
+    "registrationMessage": "Registration is now open.",
     "credits": "4 DU credits",
     "startDate": "June 13",
     "endDate": "August 22"
@@ -29,73 +30,88 @@
     "seasonYear": "Summer 2026",
     "term": "Summer",
     "season": "Summer",
-    "registrationMessage": "2026 Summer registration is now open."
+    "registrationMessage": "Registration is now open."
   },
   {
     "item": "explore-tracks",
     "credits": "4 DU credits",
     "abbreviation": "DU",
-    "registrationMessage": "2026 Summer registration is now open."
+    "registrationMessage": "Registration is now open."
   },
   {
     "item": "digital-marketing",
     "schoolname": "University of Denver",
     "trackTitle": "Digital Marketing Track",
-    "seasonYear": "Summer 2026",
-    "startDate": "June 13",
-    "endDate": "August 22",
     "credits": "4 DU credits",
     "abbreviation": "DU",
-    "registrationMessage": "2026 Summer registration is now open.",
-    "courseCode1": "CENG 2980 | 4 Credits"
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "CENG 2980",
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": "June 13",
+    "term1EndDate": "August 22",
+    "term2StartDate": "September 8",
+    "term2EndDate": "November 20"
   },
   {
     "item": "coding-for-web",
     "schoolname": "University of Denver",
     "trackTitle": "Coding for Web Track",
-    "seasonYear": "Summer 2026",
-    "startDate": "June 13",
-    "endDate": "August 22",
     "credits": "4 DU credits",
     "abbreviation": "DU",
-    "registrationMessage": "2026 Summer registration is now open.",
-    "courseCode1": "CENG 2980 | 4 Credits"
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "CENG 2980",
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": "June 13",
+    "term1EndDate": "August 22",
+    "term2StartDate": "September 8",
+    "term2EndDate": "November 20"
   },
   {
     "item": "data-analytics",
     "schoolname": "University of Denver",
     "trackTitle": "Data Analytics Track",
-    "seasonYear": "Summer 2026",
-    "startDate": "June 13",
-    "endDate": "August 22",
     "credits": "4 DU credits",
     "abbreviation": "DU",
-    "registrationMessage": "2026 Summer registration is now open.",
-    "courseCode1": "CENG 2980 | 4 Credits"
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "CENG 2980",
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": "June 13",
+    "term1EndDate": "August 22",
+    "term2StartDate": "September 8",
+    "term2EndDate": "November 20"
   },
   {
     "item": "coding-for-data",
     "schoolname": "University of Denver",
     "trackTitle": "Coding for Data Track",
-    "seasonYear": "Summer 2026",
-    "startDate": "June 13",
-    "endDate": "August 22",
     "credits": "4 DU credits",
     "abbreviation": "DU",
-    "registrationMessage": "2026 Summer registration is now open.",
-    "courseCode1": "CENG 2980 | 4 Credits"
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "CENG 2980",
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": "June 13",
+    "term1EndDate": "August 22",
+    "term2StartDate": "September 8",
+    "term2EndDate": "November 20"
   },
   {
     "item": "career-rotation",
     "schoolname": "University of Denver",
     "trackTitle": "Career Rotation Track",
-    "seasonYear": "Summer 2026",
-    "startDate": "June 13",
-    "endDate": "August 22",
     "credits": "4 DU credits",
     "abbreviation": "DU",
-    "registrationMessage": "2026 Summer registration is now open.",
-    "courseCode1": "CENG 2980 | 4 Credits"
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "CENG 2980",
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": "June 13",
+    "term1EndDate": "August 22",
+    "term2StartDate": "September 8",
+    "term2EndDate": "November 20"
   },
   {
     "item": "reserve-a-seat",
