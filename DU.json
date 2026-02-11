@@ -15,8 +15,8 @@
     "termsandConditionsPolicy": "https://www.du.edu/university-financial-services/terms-and-conditions",
     "registrationMessage": "Registration is now open.",
     "credits": "4 DU credits",
-    "startDate": "June 13",
-    "endDate": "August 22"
+    "startDate": "March 30",
+    "endDate": "June 6"
   },
   {
     "item": "about",
@@ -27,9 +27,9 @@
     "phone": "(720) 807-8881",
     "credits": "4 DU credits",
     "programFee": null,
-    "seasonYear": "Summer 2026",
-    "term": "Summer",
-    "season": "Summer",
+    "seasonYear": "Spring 2026",
+    "term": "Spring",
+    "season": "Spring",
     "registrationMessage": "Registration is now open."
   },
   {
@@ -46,12 +46,12 @@
     "abbreviation": "DU",
     "registrationMessage": "Registration is now open.",
     "courseCode1": "CENG 2980",
-    "seasonYear1": "Summer 2026",
-    "seasonYear2": "Fall 2026",
-    "term1StartDate": "June 13",
-    "term1EndDate": "August 22",
-    "term2StartDate": "September 8",
-    "term2EndDate": "November 20"
+    "seasonYear1": "Spring 2026",
+    "seasonYear2": "Summer 2026",
+    "term1StartDate": "March 30",
+    "term1EndDate": "June 6",
+    "term2StartDate": "June 13",
+    "term2EndDate": "August 22"
   },
   {
     "item": "coding-for-web",
@@ -61,12 +61,12 @@
     "abbreviation": "DU",
     "registrationMessage": "Registration is now open.",
     "courseCode1": "CENG 2980",
-    "seasonYear1": "Summer 2026",
-    "seasonYear2": "Fall 2026",
-    "term1StartDate": "June 13",
-    "term1EndDate": "August 22",
-    "term2StartDate": "September 8",
-    "term2EndDate": "November 20"
+    "seasonYear1": "Spring 2026",
+    "seasonYear2": "Summer 2026",
+    "term1StartDate": "March 30",
+    "term1EndDate": "June 6",
+    "term2StartDate": "June 13",
+    "term2EndDate": "August 22"
   },
   {
     "item": "data-analytics",
@@ -76,12 +76,12 @@
     "abbreviation": "DU",
     "registrationMessage": "Registration is now open.",
     "courseCode1": "CENG 2980",
-    "seasonYear1": "Summer 2026",
-    "seasonYear2": "Fall 2026",
-    "term1StartDate": "June 13",
-    "term1EndDate": "August 22",
-    "term2StartDate": "September 8",
-    "term2EndDate": "November 20"
+    "seasonYear1": "Spring 2026",
+    "seasonYear2": "Summer 2026",
+    "term1StartDate": "March 30",
+    "term1EndDate": "June 6",
+    "term2StartDate": "June 13",
+    "term2EndDate": "August 22"
   },
   {
     "item": "coding-for-data",
@@ -91,12 +91,12 @@
     "abbreviation": "DU",
     "registrationMessage": "Registration is now open.",
     "courseCode1": "CENG 2980",
-    "seasonYear1": "Summer 2026",
-    "seasonYear2": "Fall 2026",
-    "term1StartDate": "June 13",
-    "term1EndDate": "August 22",
-    "term2StartDate": "September 8",
-    "term2EndDate": "November 20"
+    "seasonYear1": "Spring 2026",
+    "seasonYear2": "Summer 2026",
+    "term1StartDate": "March 30",
+    "term1EndDate": "June 6",
+    "term2StartDate": "June 13",
+    "term2EndDate": "August 22"
   },
   {
     "item": "career-rotation",
@@ -106,12 +106,12 @@
     "abbreviation": "DU",
     "registrationMessage": "Registration is now open.",
     "courseCode1": "CENG 2980",
-    "seasonYear1": "Summer 2026",
-    "seasonYear2": "Fall 2026",
-    "term1StartDate": "June 13",
-    "term1EndDate": "August 22",
-    "term2StartDate": "September 8",
-    "term2EndDate": "November 20"
+    "seasonYear1": "Spring 2026",
+    "seasonYear2": "Summer 2026",
+    "term1StartDate": "March 30",
+    "term1EndDate": "June 6",
+    "term2StartDate": "June 13",
+    "term2EndDate": "August 22"
   },
   {
     "item": "reserve-a-seat",
