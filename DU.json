@@ -46,12 +46,9 @@
     "abbreviation": "DU",
     "registrationMessage": "Registration is now open.",
     "courseCode1": "CENG 2980 | 4 Credits",
-    "seasonYear1": "Summer 2026",
-    "seasonYear2": "Fall 2026",
-    "term1StartDate": "June 13",
-    "term1EndDate": "August 22",
-    "term2StartDate": "September 8",
-    "term2EndDate": "November 20"
+    "seasonYear": "Summer 2026",
+    "startDate": "June 13",
+    "endDate": "August 22"
   },
   {
     "item": "web-development",
@@ -61,12 +58,9 @@
     "abbreviation": "DU",
     "registrationMessage": "Registration is now open.",
     "courseCode1": "CENG 2980 | 4 Credits",
-    "seasonYear1": "Summer 2026",
-    "seasonYear2": "Fall 2026",
-    "term1StartDate": "June 13",
-    "term1EndDate": "August 22",
-    "term2StartDate": "September 8",
-    "term2EndDate": "November 20"
+    "seasonYear": "Summer 2026",
+    "startDate": "June 13",
+    "endDate": "August 22"
   },
   {
     "item": "data-analytics",
@@ -76,12 +70,9 @@
     "abbreviation": "DU",
     "registrationMessage": "Registration is now open.",
     "courseCode1": "CENG 2980 | 4 Credits",
-    "seasonYear1": "Summer 2026",
-    "seasonYear2": "Fall 2026",
-    "term1StartDate": "June 13",
-    "term1EndDate": "August 22",
-    "term2StartDate": "September 8",
-    "term2EndDate": "November 20"
+    "seasonYear": "Summer 2026",
+    "startDate": "June 13",
+    "endDate": "August 22"
   },
   {
     "item": "coding-for-data",
@@ -91,12 +82,9 @@
     "abbreviation": "DU",
     "registrationMessage": "Registration is now open.",
     "courseCode1": "CENG 2980 | 4 Credits",
-    "seasonYear1": "Summer 2026",
-    "seasonYear2": "Fall 2026",
-    "term1StartDate": "June 13",
-    "term1EndDate": "August 22",
-    "term2StartDate": "September 8",
-    "term2EndDate": "November 20"
+    "seasonYear": "Summer 2026",
+    "startDate": "June 13",
+    "endDate": "August 22"
   },
   {
     "item": "career-rotation",
@@ -106,12 +94,9 @@
     "abbreviation": "DU",
     "registrationMessage": "Registration is now open.",
     "courseCode1": "CENG 2980 | 4 Credits",
-    "seasonYear1": "Summer 2026",
-    "seasonYear2": "Fall 2026",
-    "term1StartDate": "June 13",
-    "term1EndDate": "August 22",
-    "term2StartDate": "September 8",
-    "term2EndDate": "November 20"
+    "seasonYear": "Summer 2026",
+    "startDate": "June 13",
+    "endDate": "August 22"
   },
   {
     "item": "reserve-a-seat",
